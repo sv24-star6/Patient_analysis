@@ -1,0 +1,39 @@
+geo_accession,title,source_name_ch1,characteristics,group
+GSM248238,OTSCC 1,Oral Tongue Squamous Cell Carcinoma,"Sex: F, Age 57, pN0",Tumour
+GSM248650,OTSCC 2,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 44, pN0",Tumour
+GSM248651,OTSCC 3,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 52, pN0",Tumour
+GSM248652,OTSCC normal control 1,Tongue Squamous Cells from control subjects,"Sex M, Age 41",Normal
+GSM248653,OTSCC normal control 2,Tongue Squamous Cells from control subjects,"Sex M, Age 53",Normal
+GSM248655,OTSCC normal control 3,Tongue Squamous Cells from control subjects,"Sex M, Age 62",Normal
+GSM248656,OTSCC normal control 4,Tongue Squamous Cells from control subjects,"Sex F, Age 57",Normal
+GSM248658,OTSCC normal control 5,Tongue Squamous Cells from control subjects,"Sex M, Age 38",Normal
+GSM248659,OTSCC normal control 6,Tongue Squamous Cells from control subjects,"Sex M, Age 65",Normal
+GSM248660,OTSCC normal control 7,Tongue Squamous Cells from control subjects,"Sex M, Age 37",Normal
+GSM248661,OTSCC normal control 8,Tongue Squamous Cells from control subjects,"Sex F, Age 52",Normal
+GSM248662,OTSCC 4,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 67, pN0",Tumour
+GSM248663,OTSCC 5,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 41, pN0",Tumour
+GSM248664,OTSCC 6,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 53, pN0",Tumour
+GSM248665,OTSCC 7,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 62, pN2B",Tumour
+GSM248667,OTSCC 8,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 82, pN2B",Tumour
+GSM248668,OTSCC 9,Oral Tongue Squamous Cell Carcinoma,"Sex F, Age 70, pN2C",Tumour
+GSM248669,OTSCC 10,Oral Tongue Squamous Cell Carcinoma,"Sex F, Age 65, pN2C",Tumour
+GSM248670,OTSCC 11,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 45, pN0",Tumour
+GSM248671,OTSCC 12,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 47, pN2C",Tumour
+GSM248672,OTSCC normal control 10,Tongue Squamous Cells from control subjects,"Sex M, Age 70",Normal
+GSM248673,OTSCC 13,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 62, pN0",Tumour
+GSM248674,OTSCC 14,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 78, pN2B",Tumour
+GSM248675,OTSCC 15,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 55, pN0",Tumour
+GSM248676,OTSCC 16,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 60, pN0",Tumour
+GSM248677,OTSCC 17,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 67, pN0",Tumour
+GSM248678,OTSCC 18,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 38, pN1",Tumour
+GSM248679,OTSCC 19,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 65, pN0",Tumour
+GSM248680,OTSCC 20,Oral Tongue Squamous Cell Carcinoma,"Sex F, Age 66, pN2C",Tumour
+GSM248681,OTSCC 21,Oral Tongue Squamous Cell Carcinoma,"Sex F, Age 50, pN2C",Tumour
+GSM248682,OTSCC 22,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 74, pN2B",Tumour
+GSM248683,OTSCC 23,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 37, pN2A",Tumour
+GSM248684,OTSCC 24,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 62, pN0",Tumour
+GSM248685,OTSCC 25,Oral Tongue Squamous Cell Carcinoma,"Sex F, Age 52, pN0",Tumour
+GSM248686,OTSCC 26,Oral Tongue Squamous Cell Carcinoma,"Sex M, Age 47, pN0",Tumour
+GSM248687,OTSCC normal control 11,Tongue Squamous Cells from control subjects,"Sex F, Age 70",Normal
+GSM248780,OTSCC normal control 12,Tongue Squamous Cells from control subjects,"Sex M, Age 38",Normal
+GSM248781,OTSCC normal control 9,Tongue Squamous Cells from control subjects,"Sex M, Age 62",Normal
