@@ -23,5 +23,7 @@ Expression comparisons use Welch tests. Survival models adjust for age, sex and 
 - results/: Contains processed inputs and saved results.
 - prepare.py: Prepares data from original source files, which are not included. This step is unnecessary when using the supplied processed inputs.
 Figures - exported as 300-dpi PNG and vector PDF files.
+
 **Findings**
-EGFR, MMP9 and MMP7 showed replicated tumour upregulation. No target retained a significant adjusted survival association after multiple-testing correction. These findings support target prioritisation for further investigation; they do not establish limonoid anticancer activity.
+
+EGFR, MMP9 and MMP7 were more active in oral-cancer tissue than in normal tissue across two independent datasets, making them promising targets for further research into neem limonoids. None of the 14 genes showed a statistically reliable link to patient survival after accounting for clinical factors and multiple comparisons. These findings are computational and require further laboratory studies to examine whether neem limonoids can act on these targets.
