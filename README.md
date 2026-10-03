@@ -1,4 +1,7 @@
+**Patient analysis: neem limonoids in oral cancer**
+
 Python scripts and processed data for expression and survival analysis of 14 predicted targets in oral cancer.
+
 **Quick start**
 Run these commands from the repository folder:
 pip install -r requirements.txt
@@ -11,6 +14,7 @@ python plot_figure10_survival.py
 - GSE9844: 26 tumours and 12 normal controls.
 - TCGA-HNSC: Oral-site cases; adjusted survival analysis includes 286 patients and 129 deaths.
 Expression comparisons use Welch tests. Survival models adjust for age, sex and stage. Both analyses apply Benjamini–Hochberg correction across 14 targets.
+
 **Files and outputs**
 - analyse.py: Runs statistical analyses and generates results/integrated_target_evidence.csv for Table 5.
 - plot_figure9_expression.py: Creates expression plots in figure9_expression/.
